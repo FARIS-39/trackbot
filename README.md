@@ -27,8 +27,7 @@ Coupon Codes & Deals:
 Discover the latest coupon codes and promotions for your favorite stores.
 
 User Reviews: 
-Read reviews from other shoppers to help you make informed decisions.
-Benefits:
+On general, user's reviews are quite good as this website provides actual fact of the pricing and user's no longer need to worry about over-spending.
 
 How does this website change user's shopping experience?:
 1. Save money on your everyday purchases.
