@@ -37,7 +37,7 @@ Save time by searching for products across multiple stores at once.
 Build a shopping list and track prices for future purchases.
 
 How it Works:
-A simple and user-friendly guide explaining the steps of using PriceSaver's features (e.g., search for a product, set price alerts, etc.). You will be guided to do price tracking and shopping comparison and eventually made an exellence choice to save your wallet.
+A simple and user-friendly guide explaining the steps of using PriceSaver's features (e.g., search for a product, set price alerts, etc.). You will be guided to do price tracking and shopping comparison and eventually made an exellence choice to save your wallet. This website will allow you to compare the items you choose to a variety of different retailers. As a result, user's budget is to be ensured.
 
 Testimonials:
 Include quotes from satisfied users who have saved money using PriceSaver.
