@@ -1,4 +1,17 @@
 PriceSaver: Your Shopping Sidekick (Website Information)
+
+Person in charge:
+Mr. Faris 
+
+Mobile number to contact:
+019-440 8706
+
+Email to contact:
+f.iskandar259@gmail.com
+
+Website link:
+https://pricewise-q3as0n3.gamma.site/
+
 Concept: This information is designed to be adapted for the website of PriceSaver, a comparison shopping and price tracking platform.
 
 Search Bar:
@@ -24,19 +37,16 @@ Save time by searching for products across multiple stores at once.
 Build a shopping list and track prices for future purchases.
 
 How it Works:
-A simple and user-friendly guide explaining the steps of using PriceSavvy's features (e.g., search for a product, set price alerts, etc.).
+A simple and user-friendly guide explaining the steps of using PriceSaver's features (e.g., search for a product, set price alerts, etc.). You will be guided to do price tracking and shopping comparison and eventually made an exellence choice to save your wallet.
 
 Testimonials:
 Include quotes from satisfied users who have saved money using PriceSaver.
 
 Security & Privacy:
-Outline your commitment to user data security and privacy.
+This website ensures the perfect security as we take user's credentials personal very seriously.
 
-Contact Us:
-Provide contact information for customer support inquiries.
-
-Social Media Links:
-Include links to your social media profiles (if applicable).
+Note:
+If the question cant be answered, kindly proceed to contact the person in charge on mobile [Mobile number to contact] or email [Email to contact].
 
 Footer:
 Include copyright information and links to terms of service and privacy policy.
