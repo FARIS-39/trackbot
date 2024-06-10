@@ -43,7 +43,7 @@ Security & Privacy:
 This website ensures the perfect security as we take user's credentials personal very seriously.
 
 Note:
-If the question cant be answered, kindly proceed to contact the person in charge [Person in charge] on mobile [Mobile number to contact] or email [Email to contact].
+If the question cant be answered, kindly proceed to contact the person in charge on mobile or email.
 
 Footer:
 Include copyright information and links to terms of service and privacy policy.
